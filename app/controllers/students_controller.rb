@@ -19,6 +19,7 @@ class StudentsController < ApplicationController
     # def student_params
     #   params.require(:)
     # end
+    #  not sure if i will need params come back to this later
 
 
 
